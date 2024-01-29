@@ -6,6 +6,20 @@
   height: 40vmin;
   pointer-events: none;
 }
+/* personalizzo il button creato tramite JSX */
+.button-size {
+  background-color: goldenrod;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  color: #282c34;
+  font-size: 25px;
+}
+.cat {
+  width: 200px;
+  margin-top: 30px;
+  border-radius: 30px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
